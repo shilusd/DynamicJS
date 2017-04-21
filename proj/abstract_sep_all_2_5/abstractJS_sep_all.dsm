@@ -1,0 +1,70 @@
+[Javascript Call,Javascript Use,Javascript Set,Test1 4.2,Test2 0.0,Test3 2.3,Test4 1.2,Test5 4.4,TestAll]
+34
+0 100111111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100111111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100101101 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100111111 0 0 0 0 0 0 0 100111111 0 0 0 0 0 0 0 0 0 0 0 100111111 0 0 0 100111111 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 100000101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100000101 0 0 0 0 0 0 100000101 0 0 
+0 0 0 100001001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100001001 0 0 0 100001001 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100111111 0 0 0 0 
+0 0 0 0 0 100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100000101 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 100000000 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100010001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100010001 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 100111111 0 0 0 0 0 100111111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 100000101 100001001 100111111 0 0 0 0 0 0 0 0 100010001 0 0 0 0 0 0 100111111 100101101 0 0 100100011 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100111111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 100101101 0 0 0 0 0 100101101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100101101 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100100011 0 0 0 0 0 0 0 000100011 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 100010001 0 0 0 100010001 0 0 0 0 0 0 0 0 000010001 0 0 0 0 0 0 100010001 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 100000101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100000101 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100100011 0 0 0 0 0 0 0 0 0 0 0 001000000 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+E:.研究.abstractJS_sep_all.initView_js
+E:.研究.abstractJS_sep_all.view2_js
+E:.研究.abstractJS_sep_all.work2_sub_js
+E:.研究.abstractJS_sep_all.compare_js
+E:.研究.abstractJS_sep_all.getConn_js
+E:.研究.abstractJS_sep_all.main_js
+E:.研究.abstractJS_sep_all.work1_js
+E:.研究.abstractJS_sep_all.work3_js
+E:.研究.abstractJS_sep_all.saveLog_js
+E:.研究.abstractJS_sep_all.work5_js
+E:.研究.abstractJS_sep_all.findView_js
+E:.研究.abstractJS_sep_all.alertOut_js
+E:.研究.abstractJS_sep_all.data1_js
+E:.研究.abstractJS_sep_all.subWork2_js
+E:.研究.abstractJS_sep_all.work4_a1_js
+E:.研究.abstractJS_sep_all.consoleOut_js
+E:.研究.abstractJS_sep_all.saveData_js
+E:.研究.abstractJS_sep_all.work0_js
+E:.研究.abstractJS_sep_all.data2_js
+E:.研究.abstractJS_sep_all.view1_js
+E:.研究.abstractJS_sep_all.initData_js
+E:.研究.abstractJS_sep_all.input_js
+E:.研究.abstractJS_sep_all.work3_bar_js
+E:.研究.abstractJS_sep_all.work2_bar_js
+E:.研究.abstractJS_sep_all.log_js
+E:.研究.abstractJS_sep_all.work2_js
+E:.研究.abstractJS_sep_all.work3_foo_js
+E:.研究.abstractJS_sep_all.changeView_js
+E:.研究.abstractJS_sep_all.work4_js
+E:.研究.abstractJS_sep_all.fileOut_js
+E:.研究.abstractJS_sep_all.open_js
+E:.研究.abstractJS_sep_all.subWork1_js
+E:.研究.abstractJS_sep_all.work4_a2_js
+E:.研究.abstractJS_sep_all.getData_js
