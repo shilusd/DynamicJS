@@ -66,8 +66,9 @@ public class ProcessDynamic {
 		typeNo.put("AllNew", typeNo.size());
 		for (int i=0;i<map.length;i++) {
 			for (int j=0;j<map.length;j++) {
+				long mod = map[i][j]%Math.round(Math.pow(2, n));
 				map[i][j] = map[i][j]*2;
-				if (map[i][j]%Math.round(Math.pow(2, n))!=0) {
+				if (mod!=0) {
 					map[i][j] = map[i][j]+1;
 				}
 			}
@@ -87,7 +88,7 @@ public class ProcessDynamic {
 				type[entry.getValue()] = entry.getKey();
 			}
 			sb.append("[");
-			for (int i=type.length-1;i>=0;i--) {
+			for (int i=0;i<type.length;i++) {
 				sb.append(type[i]);
 				sb.append(",");
 			}

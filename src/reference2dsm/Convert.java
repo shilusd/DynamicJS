@@ -7,6 +7,6 @@ public class Convert {
 		//ProcessReport.run(args[0], args[1]);
 		//ProcessScript.run(args[0], args[1]);
 		//ProcessReportWithNum.run(args[0], args[1]);
-		ProcessDynamic.run(args[1],args,args[0]);
+		ProcessDynamic.run(args[0],args,args[1]);
 	}
 }
