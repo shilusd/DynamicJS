@@ -1,0 +1,26 @@
+x
+12
+0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 0 0 0 
+WF.core.common_js:1033:21:1039:3
+WF.core.form_js:1836:33:1884:22
+WF.core.system_init_js:15:25:54:5
+WF.core.treeWindow_js:212:14:229:4
+WF.core.grid_js:1589:14:1611:5
+WF.core.page_js:955:23:957:6
+WF.core.page_js:1104:16:1215:5
+WF.core.edittable_js:844:20:891:5
+WF.core.page_js:954:19:959:5
+WF.core.page_js:386:15:500:5
+WF.core.grid_js:2002:25:2009:6
+WF.core.system_init_js:14:11:342:4

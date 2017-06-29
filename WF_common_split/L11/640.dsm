@@ -1,0 +1,16 @@
+x
+7
+0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 
+WF.core.page_js:751:15:762:6
+WF.core.edittable_js:239:11:255:5
+WF.core.page_js:530:17:532:10
+WF.core.common_js:640:17:997:5
+WF.core.grid_js:2137:18:2141:12
+WF.core.grid_js:2031:16:2035:10
+WF.core.form_js:1501:15:1503:10

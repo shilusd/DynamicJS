@@ -1,0 +1,28 @@
+[Javascript Call,Javascript Use]
+13
+0 0 0 0 0 0 0 0 10 10 0 10 0 
+0 0 0 0 0 10 10 0 0 10 0 10 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 10 0 0 0 0 10 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 10 0 
+0 0 0 0 0 0 0 0 0 10 0 0 0 
+0 0 0 0 0 0 10 0 0 10 0 10 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 10 0 01 0 10 0 0 0 0 10 0 
+0 0 0 0 0 0 10 0 0 10 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 11 0 0 0 0 0 0 10 0 
+E:.WF.core.system_init_js
+E:.WF.core.driveform_js
+E:.WF.core.exploreCond_js
+E:.WF.core.msgContent_js
+E:.WF.core.condTester_js
+E:.WF.core.printHtml_js
+E:.WF.core.common_js
+E:.WF.core.grid_js
+E:.WF.core.genAccordionMenu_js
+E:.WF.core.page_js
+E:.WF.core.winGroup_js
+E:.WF.core.userContext_js
+E:.WF.core.customWin_js

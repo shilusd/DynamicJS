@@ -1,0 +1,18 @@
+x
+8
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 1 0 
+WF.core.page_js:628:10:654:6
+WF.core.common_js:928:50:958:9
+WF.core.page_js:566:14:599:8
+WF.core.common_js:657:22:963:6
+WF.core.page_js:568:22:577:6
+WF.core.page_js:209:9:283:5
+WF.core.page_js:719:15:730:6
+WF.core.common_js:663:24:677:7

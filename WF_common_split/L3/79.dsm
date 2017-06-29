@@ -1,0 +1,14 @@
+x
+6
+0 0 0 0 0 1 
+0 0 1 0 0 0 
+0 0 0 0 1 0 
+0 0 0 0 1 0 
+0 0 0 0 0 0 
+0 0 0 1 0 0 
+WF.core.form_js:811:23:817:14
+WF.core.graph_js:26:30:39:22
+WF.core.graph_js:87:20:231:10
+WF.core.form_js:1172:22:1276:10
+WF.core.common_js:79:19:98:3
+WF.core.richEdit_js:15:14:37:4

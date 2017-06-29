@@ -1,0 +1,24 @@
+x
+11
+0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 1 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 1 0 1 0 0 1 0 0 0 0 
+0 1 0 0 0 0 1 0 0 0 0 
+WF.core.common_js:1011:19:1017:3
+WF.core.common_js:1042:20:1047:3
+WF.core.form_js:1797:18:1890:10
+WF.core.system_init_js:15:25:54:5
+WF.core.common_js:1018:18:1024:3
+WF.core.common_js:1025:20:1032:3
+WF.core.common_js:1001:18:1009:3
+WF.core.form_js:802:29:804:18
+WF.core.treeWindow_js:12:15:42:4
+WF.core.system_init_js:14:11:342:4
+WF.core.page_js:14:19:31:3
